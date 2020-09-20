@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Leo leo@gmail.com
 
 # TECHNOLOGY COLOPHON
 
